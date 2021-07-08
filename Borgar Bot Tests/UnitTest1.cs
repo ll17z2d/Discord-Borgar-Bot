@@ -11,6 +11,7 @@ namespace Borgar_Bot_Tests
             //arrange
 
             //act
+            var x = 1;
 
             //assert
             Assert.IsFalse(false);

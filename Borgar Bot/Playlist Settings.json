@@ -1,0 +1,14 @@
+{
+  "snippet": {
+    "title": "My testing playlist via API",
+    "description": "Testing description",
+    "tags": [
+      "sample playlist",
+      "API call"
+    ],
+    "defaultLanguage": "en"
+  },
+  "status": {
+    "privacyStatus": "unlisted"
+  }
+}

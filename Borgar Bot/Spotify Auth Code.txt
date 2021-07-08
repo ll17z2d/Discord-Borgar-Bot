@@ -1,0 +1,7 @@
+{
+    "access_token":"BQCMi_5rzFifsot9pO29bZHZdvJx6Wkj5DB4kSQbMdV-6Fac9DZQIucf5it5YDzmJEa4sGYsa_C9WD7pFvwK44rs68BQKz0kpiu5_cop62ZGeAt6EtG5FsmZeRM35U9VwDmVCiDJhxoNIWx7iScLnIx6DrncO-_ogwChZihDMCoWoQ",
+    "token_type":"Bearer",
+    "expires_in":3600,
+    "refresh_token":"AQBYMKQ8h3cObNSZBksFOU7CM3LZAZSLooh6AvQPgAB8obCl71Gslks0vuGHfPoQquVmvLHowva6TWUcKxQ5q9X3T6ogi2ik6e4Ypqy7-RtAvum2FRRNREgFTZcfSOV75LQ",
+    "scope":"playlist-modify-public"
+}

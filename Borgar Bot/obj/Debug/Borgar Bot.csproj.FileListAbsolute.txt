@@ -1,0 +1,63 @@
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Borgar Bot.exe.config
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Borgar Bot.exe
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Borgar Bot.pdb
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Discord.Net.Core.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Discord.Net.Rest.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Discord.Net.Webhook.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Discord.Net.WebSocket.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\System.Collections.Immutable.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\System.Interactive.Async.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\System.Linq.Async.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Discord.Net.Commands.xml
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Discord.Net.Core.xml
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Discord.Net.Rest.xml
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Discord.Net.Webhook.xml
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Discord.Net.WebSocket.xml
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\System.Collections.Immutable.xml
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\System.Interactive.Async.xml
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\System.Linq.Async.xml
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\obj\Debug\Borgar Bot.csprojAssemblyReference.cache
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\obj\Debug\Borgar Bot.csproj.CoreCompileInputs.cache
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\obj\Debug\Borgar Bot.csproj.CopyComplete
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\obj\Debug\Borgar Bot.exe
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\obj\Debug\Borgar Bot.pdb
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\EmbedIO.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\SpotifyAPI.Web.Auth.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\SpotifyAPI.Web.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Swan.Lite.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\System.ValueTuple.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\EmbedIO.xml
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\SpotifyAPI.Web.xml
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\SpotifyAPI.Web.Auth.xml
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Swan.Lite.xml
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\System.ValueTuple.xml
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Google.Apis.Auth.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Google.Apis.Core.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Google.Apis.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Google.Apis.Oauth2.v2.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Google.Apis.YouTube.v3.dll
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Google.Apis.pdb
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Google.Apis.xml
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Google.Apis.Auth.xml
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Google.Apis.Core.pdb
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Google.Apis.Core.xml
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Google.Apis.Oauth2.v2.pdb
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Google.Apis.Oauth2.v2.xml
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Google.Apis.YouTube.v3.pdb
+C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\Google.Apis.YouTube.v3.xml

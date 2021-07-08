@@ -1,0 +1,2 @@
+MainPackage=C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\MyPackageProject\bin\AnyCPU\Debug\MyPackageProject_1.0.0.0_AnyCPU_Debug.appx
+SymbolPackage=C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\MyPackageProject\obj\Debug\Symbols\MyPackageProject_1.0.0.0_AnyCPU_Debug.appxsym

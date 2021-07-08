@@ -1,0 +1,36 @@
+Borgar Bot\Borgar Bot.exe
+Borgar Bot\Borgar Bot.exe.config
+Borgar Bot\Discord.Net.Commands.dll
+Borgar Bot\Discord.Net.Core.dll
+Borgar Bot\Discord.Net.Rest.dll
+Borgar Bot\Discord.Net.Webhook.dll
+Borgar Bot\Discord.Net.WebSocket.dll
+Borgar Bot\EmbedIO.dll
+Borgar Bot\Google.Apis.Auth.dll
+Borgar Bot\Google.Apis.Auth.PlatformServices.dll
+Borgar Bot\Google.Apis.Core.dll
+Borgar Bot\Google.Apis.dll
+Borgar Bot\Google.Apis.Oauth2.v2.dll
+Borgar Bot\Google.Apis.PlatformServices.dll
+Borgar Bot\Google.Apis.YouTube.v3.dll
+Borgar Bot\Microsoft.Bcl.AsyncInterfaces.dll
+Borgar Bot\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Borgar Bot\Microsoft.Extensions.DependencyInjection.dll
+Borgar Bot\Newtonsoft.Json.dll
+Borgar Bot\SpotifyAPI.Web.Auth.dll
+Borgar Bot\SpotifyAPI.Web.dll
+Borgar Bot\Swan.Lite.dll
+Borgar Bot\System.Collections.Immutable.dll
+Borgar Bot\System.Interactive.Async.dll
+Borgar Bot\System.Linq.Async.dll
+Borgar Bot\System.Runtime.CompilerServices.Unsafe.dll
+Borgar Bot\System.Threading.Tasks.Extensions.dll
+Borgar Bot\System.ValueTuple.dll
+Images\LockScreenLogo.scale-200.png
+Images\SplashScreen.scale-200.png
+Images\Square150x150Logo.scale-200.png
+Images\Square44x44Logo.scale-200.png
+Images\Square44x44Logo.targetsize-24_altform-unplated.png
+Images\StoreLogo.png
+Images\Wide310x150Logo.scale-200.png
+System.Core.dll

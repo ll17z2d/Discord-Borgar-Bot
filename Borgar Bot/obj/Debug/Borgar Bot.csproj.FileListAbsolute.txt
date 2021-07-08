@@ -29,7 +29,6 @@ C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\System.I
 C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\System.Linq.Async.xml
 C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\bin\Debug\System.Threading.Tasks.Extensions.xml
-C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\obj\Debug\Borgar Bot.csprojAssemblyReference.cache
 C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\obj\Debug\Borgar Bot.csproj.CoreCompileInputs.cache
 C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\obj\Debug\Borgar Bot.csproj.CopyComplete
 C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\obj\Debug\Borgar Bot.exe

@@ -165,9 +165,9 @@ namespace Borgar_Bot.Modules
         {
             //notasecret
 
-            var keyPath = @"C:\Users\zakar\OneDrive\Documents\automated-yt-playlist-cc12f65ddea4.p12";
+            var keyPath = YOUTUBEKEYPATH;
             //var accountEmail = @"imgr8tness@gmail.com";
-            var accountEmail = @"borgar-bot@automated-yt-playlist.iam.gserviceaccount.com";
+            var accountEmail = GMAILSERVICEACCOUNT;
 
             //new YoutubeCommunication(keyPath, accountEmail).GetData();
             //await new YouTubeServiceClient().GetYoutubeService
@@ -183,12 +183,12 @@ namespace Borgar_Bot.Modules
         }
 
         private SpotifyClient GetTempSpotifyObject() //PERM TOKEN
-            => new SpotifyClient("BQBta8p82ajiaHCXJVDU4vI_WNaOdsmSHpD0W6FxUV_Iv7_TmIKOhIGVz2aFXoUJUXsl8Ls4pDS_CJSry53nTkv3WP-DTEBoMDOHYgCduG5v4XCTrqaJhCh-dlandIkq2DrA4Aw7nnLZlI-8A447VKd36wf36nnqDCoAX3sEisOH5VCP4fdDrO0li7hrIic6-_OfX7qQW_XPfGdQOkkONB9uKyMqu_rA_-MUE1T8HLeB_X5_xIFwXbkHBlNXaIDdvLlVF_FID7no3_LNLkMC");       
+            => new SpotifyClient(PERMSPOTIFYTOKEN);       
         
 
 
         private SpotifyClient GetSpotifyObject()
-            => new SpotifyClient("BQCpKK5H5kQ4YSOKLLUcagKDatEYTmly5K7QkbPD1kUVbb4FlbKVey5pWwsurgijCY0ixmnmdIkhWRgbs6GTsdcub6vhuNl8YTD2U2p6rW2ATyb6HWsxlrJd0PcCgj0VN_IPa8lW9-0DGt3-_xZepM5uc9WJSALeKBvxfbBopoAxsdZweAA3VxfMFNtw7Q_NVhaN6kMoxF92jwN2qp0IP6hN4R4khD44ckd93ujQ90OWbWtW0U3_eHrambjDJoBMFJ4E69TlcGAeoybk3v88");
+            => new SpotifyClient(TEMPSPOTIFYTOKEN);
 
         private string GetErrorResponse()
         {

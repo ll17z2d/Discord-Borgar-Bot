@@ -29,7 +29,7 @@ namespace Borgar_Bot
                 .AddSingleton(_commands)
                 .BuildServiceProvider();
 
-            string token = "NzkzNjM1NDU5NzY2MDI2Mjkx.X-vIng.w2UTRPqv8DmPz5hxSV90MF_tMo8";
+            string token = DISCORDTOKEN;
 
             _client.Log += _client_Log;
 

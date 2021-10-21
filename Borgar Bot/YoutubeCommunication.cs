@@ -46,14 +46,14 @@ namespace Borgar_Bot
             //youtubeService = new YouTubeService(new BaseClientService.Initializer()
             //{
             //    HttpClientInitializer = credentials,
-            //    ApiKey = "APIKey"
+            //    ApiKey = "APIKEY"
             //});
         }
 
         public async Task Run()
         {
             UserCredential credential;
-            using (var stream = new FileStream(ClientSecretPath, FileMode.Open, FileAccess.Read))
+            using (var stream = new FileStream(CLIENTSECRETPATH, FileMode.Open, FileAccess.Read))
             {
                 credential = await GoogleWebAuthorizationBroker.AuthorizeAsync(
                     GoogleClientSecrets.Load(stream).Secrets,

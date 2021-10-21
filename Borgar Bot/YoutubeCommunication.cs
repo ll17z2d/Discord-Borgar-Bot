@@ -46,15 +46,14 @@ namespace Borgar_Bot
             //youtubeService = new YouTubeService(new BaseClientService.Initializer()
             //{
             //    HttpClientInitializer = credentials,
-            //    ApiKey = "f1e6f2d7f1f6d7c54ab2a35f4070377e53897b9d"
+            //    ApiKey = "APIKey"
             //});
         }
 
         public async Task Run()
         {
             UserCredential credential;
-            //@"C:\Users\zakar\OneDrive\Documents\automated-yt-playlist-f1e6f2d7f1f6.json"
-            using (var stream = new FileStream(@"C:\Users\zakar\OneDrive\Documents\Repos\Borgar Bot\Borgar Bot\client_secret_Z.json", FileMode.Open, FileAccess.Read))
+            using (var stream = new FileStream(ClientSecretPath, FileMode.Open, FileAccess.Read))
             {
                 credential = await GoogleWebAuthorizationBroker.AuthorizeAsync(
                     GoogleClientSecrets.Load(stream).Secrets,
